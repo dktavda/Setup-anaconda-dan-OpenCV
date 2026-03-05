@@ -1,5 +1,5 @@
 # Laporan Praktikum 1: Konfigurasi Infrastruktur Computer Vision
-Mata Kuliah: Machine Learning  
+Mata Kuliah: Machine Learning
 Dosen: Herfandi, A.Md., S.Kom., M.Kom
 
 ---
